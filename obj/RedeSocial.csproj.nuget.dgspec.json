@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo.brandao\\Downloads\\RedeSocial\\RedeSocial.csproj": {}
+    "C:\\Users\\paulo.brandao\\Downloads\\RedesSociaisAPI\\RedeSocial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo.brandao\\Downloads\\RedeSocial\\RedeSocial.csproj": {
+    "C:\\Users\\paulo.brandao\\Downloads\\RedesSociaisAPI\\RedeSocial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo.brandao\\Downloads\\RedeSocial\\RedeSocial.csproj",
+        "projectUniqueName": "C:\\Users\\paulo.brandao\\Downloads\\RedesSociaisAPI\\RedeSocial.csproj",
         "projectName": "RedeSocial",
-        "projectPath": "C:\\Users\\paulo.brandao\\Downloads\\RedeSocial\\RedeSocial.csproj",
+        "projectPath": "C:\\Users\\paulo.brandao\\Downloads\\RedesSociaisAPI\\RedeSocial.csproj",
         "packagesPath": "C:\\Users\\paulo.brandao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo.brandao\\Downloads\\RedeSocial\\obj\\",
+        "outputPath": "C:\\Users\\paulo.brandao\\Downloads\\RedesSociaisAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",

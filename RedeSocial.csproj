@@ -25,4 +25,15 @@
     <Folder Include="StaticFiles\Images\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="StaticFiles\Images\869111e2-e643-4b8c-8ee8-d5d515de000c.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+
 </Project>

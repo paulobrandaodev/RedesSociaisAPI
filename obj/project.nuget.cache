@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GzRp+zr5AKaqyCSY09lST/1cy1AZ7T7+q4Ok8p+boGJGBCKJrb3SbQOWWy9mth3rrGfT8eGEMddyN7yxyMJqgQ==",
+  "dgSpecHash": "ugCqwmUWNsmpHclxQ4ZNhuyBBkcLQuJL/567IxT1RurASEmsQxATLE3IvkvTgOgJnok6GMWHOWvXrSLX1hOk9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo.brandao\\Downloads\\RedeSocial\\RedeSocial.csproj",
+  "projectFilePath": "C:\\Users\\paulo.brandao\\Downloads\\RedesSociaisAPI\\RedeSocial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo.brandao\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
     "C:\\Users\\paulo.brandao\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
